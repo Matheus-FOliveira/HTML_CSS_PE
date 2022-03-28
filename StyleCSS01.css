@@ -1,0 +1,27 @@
+.divpai1{
+    background-color: rgb(253, 116, 37);
+    width: 500px;
+    height: 500px;
+}
+.divfilha1{
+    background-color: #5cfc3d;
+    width: 50%;
+    height: 50%;
+}
+p{
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.divpai2{
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(38, 182, 248);
+}
+.divfilha2{
+    width: 75vw;
+    height: 50%;
+    background-color: rgb(255, 0, 0);
+}
